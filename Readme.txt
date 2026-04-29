@@ -1,4 +1,4 @@
-🎓 EduTrack — Application de collecte et d'analyse des performances des étudiants
+🎓 EduData — Application de collecte et d'analyse des performances des étudiants
 
 > Cours : INF 232 EC2 — Analyse de données  
 > Langage : Python |Framework : Streamlit  
